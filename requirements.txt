@@ -1,0 +1,9 @@
+streamlit 
+boto3
+pandas
+numpy
+langchain
+python-dotenv
+pymilvus
+openai
+# google-genai
