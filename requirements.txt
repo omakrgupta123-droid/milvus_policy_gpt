@@ -6,4 +6,5 @@ langchain
 python-dotenv
 pymilvus
 openai
-# google-genai
+
+
